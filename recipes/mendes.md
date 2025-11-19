@@ -1,11 +1,3 @@
-Full name: Nuno Alexandre Tavares Mendes 
-Wikipédia
-+1
-
-Born: 19 June 2002, in Sintra, Portugal. 
-en.psg.fr
-+1
-
 Position: Left-back / Full-back 
 Wikipédia
 
@@ -14,7 +6,7 @@ en.psg.fr
 
 National team: Portugal. 
 Wikipédia
-
+s
 Career
 
 Youth: Started at Despertar, then joined Sporting CP academy. 
