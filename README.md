@@ -8,5 +8,5 @@
 | Daniel | danielketcha-coder | daniel | 5 |
 | Tchakoute | Tchakoute-alban | tchakoute | 5 |
 | Ashton | ashtonbright | ashton | 5 |
-| Yoahan | yoahan11     | yohan  | 5 |
+| Yohan | yohan11     | yohan  | 5 |
 **Branch naming rule:** lowercase, hyphen, your full name → e.g. `skaw`
