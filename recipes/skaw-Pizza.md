@@ -1,6 +1,7 @@
-3. Pizza (Basic Homemade) => By "SKAW"
+Updated version !
+3. Bamenda Pizza => By "SKAW"
     Ingredients
-* 2 cups flour
+* 50 cups flour
 * 1 tsp yeast
 * 1 tbsp oil
 * Pinch of salt

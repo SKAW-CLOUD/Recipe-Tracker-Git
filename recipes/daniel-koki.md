@@ -1,5 +1,5 @@
 # koki – by daiel daniel
-**Prep time:** 450 min | **Cook time:** 1.3 hour | **Serves:** 8
+**Prep time:** 50 min | **Cook time:** 1.3 hour | **Serves:** 8
 ## Ingredients
 - Washed bitter leaves, peanut paste, beef, crayfish …
 ## Steps
