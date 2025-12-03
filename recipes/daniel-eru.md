@@ -1,6 +1,6 @@
 # eru – by Padaniel jaures
 
-*\*Prep time:\*\* 30 min | \*\*Cook time:\*\* 1 hour | \*\*Serves:\*\* 8
+*\*Prep time:\*\* 15 min | \*\*Cook time:\*\* 1 hour | \*\*Serves:\*\* 8
 
 # Ingredients
 
